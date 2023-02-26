@@ -1,0 +1,9 @@
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\bin\Debug\confused sharp.exe
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\bin\Debug\confused sharp.pdb
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\obj\Debug\confused sharp.csproj.AssemblyReference.cache
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\obj\Debug\confused sharp.csproj.CoreCompileInputs.cache
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\obj\Debug\confused sharp.csproj.CopyComplete
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\obj\Debug\confused sharp.exe
+C:\Users\shadowspc\Desktop\confused sharp\confused sharp\obj\Debug\confused sharp.pdb
